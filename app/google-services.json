@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1058289240170",
+    "firebase_url": "https://muzikapp-7a80f.firebaseio.com",
+    "project_id": "muzikapp-7a80f",
+    "storage_bucket": "muzikapp-7a80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058289240170:android:6c535f34bc88892a3c2213",
+        "android_client_info": {
+          "package_name": "com.example.muzikSizsiniz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058289240170-5d3uetfkfdnd9pdtgu2pts7eaoo391da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnqg9OkH2ssEZV5j9wk0kdcLRvS7DcScw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058289240170-5d3uetfkfdnd9pdtgu2pts7eaoo391da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058289240170:android:6ac5f61f7b4fe86e3c2213",
+        "android_client_info": {
+          "package_name": "com.semih.MuzikSizsiniz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058289240170-5d3uetfkfdnd9pdtgu2pts7eaoo391da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnqg9OkH2ssEZV5j9wk0kdcLRvS7DcScw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058289240170-5d3uetfkfdnd9pdtgu2pts7eaoo391da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
